@@ -1,3 +1,3 @@
-var filler = require('./filler.js');
+import HTMLFiller from './html-filler';
 
-filler.execute();
+//HTMLFiller.execute();
